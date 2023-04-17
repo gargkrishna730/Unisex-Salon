@@ -1,0 +1,22 @@
+{
+    "name": "Hair Salon",
+    "short _name": "Hair Salon",
+    "start_url":"index.html",
+    "display": "standalone",
+    "theme_color": "#39f077",
+    "background_color": "#141415",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "image.png",
+            "type": "image/png",
+            "sizes":"144X144"
+        },
+        {
+            "src": "image2.png",
+            "type": "image/png",
+            "sizes":"512x512",
+            "purpose":"maskable"
+        }
+    ]
+}
